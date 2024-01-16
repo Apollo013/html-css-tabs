@@ -80,6 +80,7 @@ body {
 .container_content-list-item span {
     pointer-events: none;
 }
+
 .container_content-indicator {
     position: absolute;
     height: var(--list-item-height);
